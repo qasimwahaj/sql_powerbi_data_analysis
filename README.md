@@ -6,8 +6,8 @@ In this project, I'll be examining a synthetic HR dataset as part of my data cam
 
 ### Tools
 
-- SQL - Data Cleaning and Analysis
-- PowerBI - Data Visualization
+- SQL - Data Cleaning and Analysis (file attached)
+- PowerBI - Data Visualization (files attached)
 
 ### Data Cleaning
 
