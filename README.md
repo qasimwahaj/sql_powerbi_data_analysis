@@ -1,4 +1,8 @@
-# HR Data Analysis
+
+![dashboard_1](https://github.com/qasimwahaj/sql_powerbi_data_analysis/assets/132105127/bf07730d-57d4-4693-833e-dbfe6eae7b54)
+![dashboard_2](https://github.com/qasimwahaj/sql_powerbi_data_analysis/assets/132105127/41b1f0f1-7813-401a-86df-3bd58d0bc10b)
+
+# HR Data Analysis Using SQL and PowerBI
 
 ### Prject Overview
 
